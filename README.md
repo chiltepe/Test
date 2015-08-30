@@ -1,2 +1,2 @@
 # Test
-my first git hub repo
+my first github repo
